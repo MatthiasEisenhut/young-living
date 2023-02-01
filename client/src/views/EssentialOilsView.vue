@@ -1,7 +1,7 @@
 <template>
   <div>
     <q-img src="@/assets/images/lavender.jpg"></q-img>
-    <div class="overlay text-center">
+    <div class="overlay text-center gt-xs">
       <h2>WHAT ARE ESSENTIAL OILS?</h2>
       <p>
         The purest distillation of nature, essential oils have enhanced lives for thousands of
@@ -18,7 +18,7 @@
           and wellness benefits.
         </p>
       </div>
-      <div class="col q-pa-md text-center">
+      <div class="col q-pa-md text-center gt-xs">
         <q-img src="@/assets/images/benefits.jpg" width="500px"></q-img>
       </div>
     </div>
